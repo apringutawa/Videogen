@@ -1,0 +1,5 @@
+{
+  "name": "VEO3 Video Generator",
+  "description": "A mobile web application to generate high-quality videos from text prompts and reference images using Google's VEO model. Users can specify aspect ratio and resolution for their creations.",
+  "requestFramePermissions": []
+}
